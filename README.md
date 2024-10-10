@@ -21,7 +21,7 @@
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
-  
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
 </div>
 <br>
 <br>
