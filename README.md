@@ -48,7 +48,7 @@
 
 <!-- Streak feature -->
 <h3>STREAK FEATURE 🚀🚀</h3>
-<p align="center">
+<p >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanver45&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Aman's GitHub Streak" />
 </p>
 
