@@ -35,10 +35,8 @@
 </div>
 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanver45&theme=github_dark" />
-  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanver45&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanver45&theme=github_dark" />
-</div>
 
 <br>
 <div align="center">
