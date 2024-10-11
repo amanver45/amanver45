@@ -48,9 +48,11 @@
 
 <!-- Streak feature -->
 <h3>STREAK FEATURE 🚀🚀</h3>
-<p >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanver45&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Aman's GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanver45&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
+       alt="Aman's GitHub Streak" style="width: 100vw; height: auto;" />
 </p>
+
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanver45&theme=github_dark" />
