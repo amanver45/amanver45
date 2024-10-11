@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<h3 GSSOC-EXTD(24) Badges 🪶</h3>
+<h3> GSSOC-EXTD(24) Badges 🪶</h3>
 <div style="display:flex; align-items:center; gap: 10px;" align="center">
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
@@ -47,7 +47,7 @@
 </div>
 
 <!-- Streak feature -->
-<h3 align="center">STREAK FEATURE 🚀🚀</h3>
+<h3>STREAK FEATURE 🚀🚀</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanver45&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Aman's GitHub Streak" />
 </p>
