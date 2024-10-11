@@ -18,9 +18,9 @@
 
 ## GSSOC-EXTD(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscrt.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.techadges/2.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/bads/3.mwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
 </div>
 <br>
@@ -35,7 +35,7 @@
 </div>
 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanver45&theme=github_dark" />
-  ile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanver45&theme=github_dark"  /> 
+  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanver45&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanver45&theme=github_dark" />
 </div>
