@@ -30,12 +30,12 @@
 
 <!-- Streak feature -->
 ## STREAK FEATURE 🚀🚀
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ananyag309&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Ananya's GitHub Streak" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanver45&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Aman's GitHub Streak" /></p>
 </div>
 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanver45&theme=github_dark" />
-<! -- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanver45&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanver45&theme=github_dark"  /> -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanver45&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanver45&theme=github_dark"  /> 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanver45&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanver45&theme=github_dark" />
 </div>
