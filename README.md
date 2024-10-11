@@ -26,7 +26,8 @@
 <br>
 <br>
 <!--
-**amanver45/amanver45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amanver45/amanver45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanver45&theme=github_dark"  />
+  <img height="180em" src="https://github-prof
 
 <!-- Streak feature -->
 ## STREAK FEATURE 🚀🚀
@@ -34,8 +35,7 @@
 </div>
 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanver45&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanver45&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanver45&theme=github_dark"  /> 
+  ile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanver45&theme=github_dark"  /> 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanver45&theme=github_dark"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanver45&theme=github_dark" />
 </div>
