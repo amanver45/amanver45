@@ -18,9 +18,9 @@
 
 ## GSSOC-EXTD(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="https://gssoc.girlscrt.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.techadges/2.png?imwidth=96" width="100px" height="100px" />
-  <img src="https://gssoc.girlscript.tech/bads/3.mwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://gssoc.girlscript.tech/badges/3.mwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
 </div>
 <br>
