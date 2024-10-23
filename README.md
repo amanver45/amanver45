@@ -40,7 +40,7 @@
 
 <h3> GSSOC-EXTD(24) Badges 🪶</h3>
 <div style="display:flex; align-items:center; gap: 10px;" align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQHoVsgd_SM5rQ/feedshare-shrink_800/feedshare-shrink_800/0/1729689574406?e=1732752000&v=beta&t=PB3zfRpQVptrjhMRBtmPZc1DpSeQr_n7xOYxrw8ZFOA" width="100px" height="100px" />
+  <img src="https://blog.postman.com/wp-content/uploads/2022/10/image1-2.png" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
