@@ -40,7 +40,7 @@
 
 <h3> GSSOC-EXTD(24) Badges 🪶</h3>
 <div style="display:flex; align-items:center; gap: 10px;" align="center">
-  <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://api.badgr.io/public/assertions/IeAQ1wRSSNS4ufqMAMhs2w/image" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=96" width="100px" height="100px" />
