@@ -48,6 +48,10 @@
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="100px" height="100px" />
 </div>
 
+# 🏆 Digital Badges
+[![An image of @amanver45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanver45)](https://holopin.io/@amanver45) 
+
+<br/>5045
 <!-- Streak feature -->
 <h3>STREAK FEATURE 🚀🚀</h3>
 <p align="center">
