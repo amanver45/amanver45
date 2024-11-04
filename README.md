@@ -39,7 +39,9 @@
 </p>
 
 <h3> GSSOC-EXTD(24) Badges 🪶</h3>
-<div style="display:flex; align-items:center; gap: 10px;" align="center">
+
+  
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
   <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/web3hack.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" width="100px" height="100px" />
