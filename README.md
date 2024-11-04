@@ -48,6 +48,8 @@
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=96" width="100px" height="100px" />
   <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=96" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
 </div>
 
 # 🏆 HacktoberFest 24
