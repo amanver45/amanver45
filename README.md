@@ -85,3 +85,5 @@
     <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanver45&theme=github_dark" />
   </div>
 </div>
+<p align="center"><b>Profile Views</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bamanver4510%7D/count.svg" alt="visitor badge"/></p>
