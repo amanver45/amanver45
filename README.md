@@ -60,6 +60,7 @@
 ![An image of @amanver45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanver45)
 
 <br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=amanver45(https://github.com/ryo-ma/github-profile-trophy)
 <!-- Streak feature -->
 <h3>STREAK FEATURE 🚀🚀</h3>
 <p align="center">
