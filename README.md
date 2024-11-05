@@ -59,8 +59,12 @@
 # 🏆 HacktoberFest 24
 ![An image of @amanver45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amanver45)
 
-<br/>
-[![trophy](https://github-profile-trophy.vercel.app/amanver45(https://github.com/ryo-ma/github-profile-trophy)
+<br>
+
+<h2 align="center" style="font-family: 'Poppins', sans-serif;">🏆 Github Trophies</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanver45&theme=radical" alt="amanver45" /></a> </p>
+
+<br>
 <!-- Streak feature -->
 <h3>STREAK FEATURE 🚀🚀</h3>
 <p align="center">
