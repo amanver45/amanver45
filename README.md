@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<h3> GSSOC-EXTD(24) Badges 🪶</h3>
+<h3 align="center" style="font-family: 'Poppins', sans-serif;"> GSSOC-EXTD(24) Badges 🪶</h3>
 
   
 <div style='display:flex; align-items:center; gap: 10px; flex-wrap: wrap;' align='center'>
