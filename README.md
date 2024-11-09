@@ -66,25 +66,45 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanver45&theme=radical" alt="amanver45" /></a> </p>
 
 <br>
-<!-- Streak feature -->
-<h3>STREAK FEATURE 🚀🚀</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanver45&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" 
-       alt="Aman's GitHub Streak" style="width: 50%; height: auto;" />
-</p>
 
+  ### Github Stats 🧊
 
 <div align="center">
-  <!-- First image in one row -->
-  <div style="margin-bottom: 20px;">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanver45&theme=github_dark" />
-  </div>
-  
-  <!-- Two images in the same row -->
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanver45&theme=github_dark"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanver45&theme=github_dark" />
-  </div>
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanver45&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amanver45&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amanver45&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amanver45&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amanver45&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=amanver45&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+
+<br/>
+<br/>
+<br/>
+
+
+<p align="center">
+   <a>
+     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanver45&theme=radical" alt="shivanshplays" /></p>
+   </a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanver45&theme=synthwave-84&true&hide_border=true" />
+</div>
+
+<hr>
+
+<p align="center">
+  <b>Thanks for your visit to my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/amanver45" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150"/>
+  </a>
+</p>
+
 </div>
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7Bamanver4510%7D/count.svg" alt="visitor badge"/></p>
