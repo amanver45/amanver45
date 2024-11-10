@@ -39,7 +39,12 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center" style="font-family: 'Poppins', sans-serif;"> GSSOC-EXTD(24) Badges 🪶</h3>
+
+
+
+
+
+<h3> GSSOC-EXTD(24) Badges 🪶</h3>
 
   
 <div style='display:flex; align-items:center; gap: 10px; flex-wrap: wrap;' align='center'>
@@ -62,7 +67,7 @@
 
 <br>
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif;">🏆 Github Trophies</h2>
+<h2>🏆 Github Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanver45&theme=radical" alt="amanver45" /></a> </p>
 
 <br>
