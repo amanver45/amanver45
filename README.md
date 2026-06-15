@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **MERN stack**
+
 - 📫 How to reach me **amanver125@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
